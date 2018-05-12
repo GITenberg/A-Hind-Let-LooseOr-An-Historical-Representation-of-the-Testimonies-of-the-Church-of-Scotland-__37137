@@ -1,0 +1,34 @@
+_repo: A-Hind-Let-LooseOr-An-Historical-Representation-of-the-Testimonies-of-the-Church-of-Scotland-__37137
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shields, Alexander
+    aliases:
+    - Sheilds, Alexander
+    - Shiels, Alexander
+    deathdate: 1700
+    gutenberg_agent_id: '38671'
+    url: http://www.gutenberg.org/2009/agents/38671
+description: ''
+gutenberg_issued: '2011-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37137'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Covenanters'
+- !lcsh 'Scotland -- Church history'
+- !lcc 'BX'
+- !lcsh 'Church of Scotland -- Controversial literature'
+- !lcsh 'Church of Scotland -- History'
+title: 'A Hind Let Loose
+
+  Or, An Historical Representation of the Testimonies of the Church of Scotland for
+  the Interest of Christ. With the True State Thereof in All Its Periods'
+url: http://www.gutenberg.org/ebooks/37137
